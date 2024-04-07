@@ -54,4 +54,4 @@ Day 24 - April 01
 
 ### Django
 
-Day 25 - April 02
+Continued in another repository.....
